@@ -1,0 +1,35 @@
+
+
+
+//////==============||=============//////////////==============||=============//////////////==============||=============////////
+
+
+Welcome to the MazeSolver Game!
+
+To play this game, you can start by running the game to solve the maze by itself. 
+
+press these keys for :
+
+"b" -> breath first search
+
+"d" -> depth first search 
+
+"r" -> reset the maze
+
+"s" "e" "n" "d" -> different keys for solving the maze based on preferences chosen 
+
+"m" -> to start solving the maze manually
+
+after pressing m, you can use the arrow keys 
+
+specific preferences :
+
+0 -> random maze 1 -> vertical preferences -1 -> horizontal preferences 
+
+Enjoy! Thanks for playing. :) 
+
+P.S. Please use the manualmaze.java file for the manual version, as it works better 
+
+
+//////==============||=============//////////////==============||=============//////////////==============||=============////////
+
